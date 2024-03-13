@@ -15,7 +15,13 @@ A collection of resources and programs to learn high-level languages like C, C++
     <td>bobdeyr@rknec.edu</td>
     <td>B-62</td>
   </tr>
-<!--   <tr>
+  <tr>
+    <td>2</td>
+    <td>Pragati Borkar</td>
+    <td>borkarps_1@rknec.edu</td>
+    <td>B-70</td>
+  </tr>
+  <!--   <tr>
     <td></td>
     <td></td>
     <td></td>
