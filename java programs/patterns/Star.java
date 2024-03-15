@@ -1,25 +1,12 @@
-//program to print solid square
-import java.util.*;
 public class Star{
-    public static void main(String args[])
-    {
-        int i, j;
- 
-        // outer loop to handle number of rows
-        //  n in this case
-        for(i=0; i<5; i++)
-        {
- 
-            //  inner loop to handle number of columns
-            //  values changing acc. to outer loop    
-            for(j=0; j<=i; j++)
-            {
-                // printing stars
-                System.out.print("* ");
-            }
- 
-            // ending line after each row
-            System.out.println();
-        }
-    }
+   public static void main(String args[]){
+      int i, j;
+      System.out.println("The square pattern : ");
+      for(i = 1; i <= 5; i++){
+         for(j = 1; j <= 5; j++){
+            System.out.print("* ");
+         }
+         System.out.print("\n");
+      }
+   }
 }
