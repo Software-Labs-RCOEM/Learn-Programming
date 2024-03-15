@@ -24,6 +24,7 @@ int main() {
   
     return 0;  
 }  
+*********************************************************************************************
 // Binary search in c
 #include stdio.h  
 int binarySearch(int a[], int beg, int end, int val)    
