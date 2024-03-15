@@ -1,0 +1,49 @@
+body,
+html {
+  margin: 0;
+  height: 100%;
+  overflow: hidden;
+}
+
+body {
+  color: #ffffff;
+  font-family: 'Gabarito', sans-serif;
+}
+
+h2 {
+  margin: 0;
+  font-size: 4rem;
+}
+
+p {
+  margin-bottom: 0;
+}
+
+main {
+  height: 100vh;
+  overflow-x: scroll;
+  scroll-snap-type: y mandatory;
+}
+
+section {
+  width: 100vw;
+  height: 100%;
+  text-align: center;
+  scroll-snap-align: start;
+  box-sizing: border-box;
+  padding: 20px;
+}
+
+section {
+  &:nth-child(1) {
+    background-color: #FF6969;
+  }
+  
+  &:nth-child(2) {
+    background-color: #713ABE;
+  }
+  
+  &:nth-child(3) {
+    background-color: #3085C3;
+  }
+}
