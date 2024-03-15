@@ -27,6 +27,12 @@ A collection of resources and programs to learn high-level languages like C, C++
     <td>padoleap@rknec.edu</td>
     <td>B-69</td>
   </tr>
+   <tr>
+    <td>3</td>
+    <td>Nandini Giri</td>
+    <td>girinp@rknec.edu</td>
+    <td>B-68</td>
+  </tr>
   <!--   <tr>
     <td></td>
     <td></td>
