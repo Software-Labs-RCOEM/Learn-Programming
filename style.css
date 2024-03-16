@@ -105,14 +105,18 @@ width: 50%;
 
 
 .btn {
-  padding: 10px 25px; 
-  border-radius: 15px; 
+  padding: 5px 25px; 
+  border-radius: 10px; 
   font-size: large;
-  background: transparent;
+  background: rgba(255,255,255, 0.5);
   color: white;
   cursor: pointer; 
   transition: all 0.3s ease;
+  display: flex; 
+  align-items: center;
+  border: none;
 }
+
 
 .btn:hover{
   background-color: #f1f1ee;
