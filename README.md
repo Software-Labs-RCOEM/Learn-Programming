@@ -8,7 +8,8 @@
 A collection of resources and programs to learn high-level languages like C, C++, Java and Python. 
 
 ![UI for codegen](image.png)
-
+![C programming](image-1.png)
+![C++ Programming](image-3.png)
 *SITE LIVE AT: https://software-labs-rcoem.github.io/Learn-Programming*
 
 ## Team Members
