@@ -54,11 +54,11 @@ section {
 
 nav{ 
   position: absolute;
-  top: 0; 
+  top: 15px; 
   left: 0;
   right: 0; 
   height: 8vh; 
-  background-color: rgba(255, 255, 255, 0.1);
+  background-color: rgba(255, 255, 255, 0.05);
   display: flex;
   justify-content: space-between;
   align-items: center;
